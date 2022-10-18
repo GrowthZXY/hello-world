@@ -27,7 +27,7 @@
 
 <script>
     import child from '@/components/shared/child';
-    import { throttle } from '@/utils/base';
+    // import { throttle } from '@/utils/base';
     // import func from '../../vue-temp/vue-editor-bridge';
 
     export default {
