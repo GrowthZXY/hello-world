@@ -1,7 +1,7 @@
 //排序
 let arr = [3, 4, 5, 221, 30, 6, 1, 70, 2, 3, 30, 4, 1, 9, 7];
 
-let c;
+let cccc;
 
 //1.冒泡
 // let temp;
@@ -48,13 +48,13 @@ let c;
 
 //4.插入
 for (let i = 1; i < arr.length; i++) {
-    let n = i - 1;
-    let cur = arr[i];
-    while (arr[n] > cur && n >= 0) {
-        arr[n + 1] = arr[n];
-        n--;
-    }
-    arr[n + 1] = cur;
+  let n = i - 1;
+  let cur = arr[i];
+  while (arr[n] > cur && n >= 0) {
+    arr[n + 1] = arr[n];
+    n--;
+  }
+  arr[n + 1] = cur;
 }
 console.log(arr);
 

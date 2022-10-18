@@ -24,11 +24,11 @@ import '@/utils/util';
 
 import BaiduMap from 'vue-baidu-map';
 Vue.use(BaiduMap, {
-    ak: 'YOUR_APP_KEY',
+  ak: 'YOUR_APP_KEY',
 });
 
 new Vue({
-    router,
-    store,
-    render: (h) => h(App),
+  router,
+  store,
+  render: (h) => h(App),
 }).$mount('#app');
