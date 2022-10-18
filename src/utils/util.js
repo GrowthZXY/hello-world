@@ -1,8 +1,6 @@
 //排序
 let arr = [3, 4, 5, 221, 30, 6, 1, 70, 2, 3, 30, 4, 1, 9, 7];
 
-let cccc;
-
 //1.冒泡
 // let temp;
 // for (let i = 0; i < arr.length - 1; i++) {

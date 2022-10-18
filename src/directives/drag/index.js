@@ -17,8 +17,8 @@ import _drag from './_drag';
  */
 
 export default {
-    // eslint-disable-next-line no-unused-vars
-    install: (app, options) => {
-        app.directive('drag', _drag); // 注册全局指令
-    },
+  // eslint-disable-next-line no-unused-vars
+  install: (app, options) => {
+    app.directive('drag', _drag); // 注册全局指令
+  },
 };

@@ -8,8 +8,8 @@ import _tap from './_tap';
  * 多个参数：v-tap:xxx="[param1, param2]"
  */
 export default {
-    // eslint-disable-next-line no-unused-vars
-    install: (app, options) => {
-        app.directive('tap', _tap); // 注册全局指令
-    },
+  // eslint-disable-next-line no-unused-vars
+  install: (app, options) => {
+    app.directive('tap', _tap); // 注册全局指令
+  },
 };
