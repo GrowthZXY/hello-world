@@ -1,185 +1,185 @@
 @font-face {
-    font-family: 'swcipfont'; /* Project id 2701609 */
-    src: url('iconfont.woff2?t=1632644574882') format('woff2'), url('iconfont.woff?t=1632644574882') format('woff'),
-        url('iconfont.ttf?t=1632644574882') format('truetype');
+  font-family: 'swcipfont'; /* Project id 2701609 */
+  src: url('iconfont.woff2?t=1632644574882') format('woff2'), url('iconfont.woff?t=1632644574882') format('woff'),
+    url('iconfont.ttf?t=1632644574882') format('truetype');
 }
 
 .swcipfont {
-    font-family: 'swcipfont' !important;
-    font-size: 16px;
-    font-style: normal;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+  font-family: 'swcipfont' !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .sw-cip-close:before {
-    content: '\e6a8';
+  content: '\e6a8';
 }
 
 .sw-cip-ic_add:before {
-    content: '\e614';
+  content: '\e614';
 }
 
 .sw-cip-search:before {
-    content: '\e6a7';
+  content: '\e6a7';
 }
 
 .sw-cip-more2:before {
-    content: '\e6a4';
+  content: '\e6a4';
 }
 
 .sw-cip-data:before {
-    content: '\e6a3';
+  content: '\e6a3';
 }
 
 .sw-cip-public:before {
-    content: '\e6a5';
+  content: '\e6a5';
 }
 
 .sw-cip-private:before {
-    content: '\e6a6';
+  content: '\e6a6';
 }
 
 .sw-cip-voice2-open2:before {
-    content: '\e6a0';
+  content: '\e6a0';
 }
 
 .sw-cip-voice2-open3:before {
-    content: '\e69e';
+  content: '\e69e';
 }
 
 .sw-cip-voice2-open4:before {
-    content: '\e69c';
+  content: '\e69c';
 }
 
 .sw-cip-voice2-open5:before {
-    content: '\e69d';
+  content: '\e69d';
 }
 
 .sw-cip-voice2-open6:before {
-    content: '\e69f';
+  content: '\e69f';
 }
 
 .sw-cip-head2:before {
-    content: '\e696';
+  content: '\e696';
 }
 
 .sw-cip-head:before {
-    content: '\e69a';
+  content: '\e69a';
 }
 
 .sw-cip-tips:before {
-    content: '\e699';
+  content: '\e699';
 }
 
 .sw-cip-user:before {
-    content: '\e694';
+  content: '\e694';
 }
 
 .sw-cip-duration:before {
-    content: '\e697';
+  content: '\e697';
 }
 
 .sw-cip-notice:before {
-    content: '\e698';
+  content: '\e698';
 }
 
 .sw-cip-open:before {
-    content: '\e690';
+  content: '\e690';
 }
 
 .sw-cip-put-away:before {
-    content: '\e691';
+  content: '\e691';
 }
 
 .sw-cip-voice2-shut1:before {
-    content: '\e68d';
+  content: '\e68d';
 }
 
 .sw-cip-voice2-open1:before {
-    content: '\e68e';
+  content: '\e68e';
 }
 
 .sw-cip-voice3-open:before {
-    content: '\e68c';
+  content: '\e68c';
 }
 
 .sw-cip-wifi4:before {
-    content: '\e683';
+  content: '\e683';
 }
 
 .sw-cip-wifi3:before {
-    content: '\e681';
+  content: '\e681';
 }
 
 .sw-cip-wifi:before {
-    content: '\e682';
+  content: '\e682';
 }
 
 .sw-cip-wifi2:before {
-    content: '\e684';
+  content: '\e684';
 }
 
 .sw-cip-video2-shut:before {
-    content: '\e67f';
+  content: '\e67f';
 }
 
 .sw-cip-video2-open:before {
-    content: '\e680';
+  content: '\e680';
 }
 
 .sw-cip-voice-open:before {
-    content: '\e67c';
+  content: '\e67c';
 }
 
 .sw-cip-voice-shut:before {
-    content: '\e67d';
+  content: '\e67d';
 }
 
 .sw-cip-control2-open:before {
-    content: '\e674';
+  content: '\e674';
 }
 
 .sw-cip-control2-shut:before {
-    content: '\e678';
+  content: '\e678';
 }
 
 .sw-cip-control-shut:before {
-    content: '\e679';
+  content: '\e679';
 }
 
 .sw-cip-control-open:before {
-    content: '\e67a';
+  content: '\e67a';
 }
 
 .sw-cip-edition:before {
-    content: '\e677';
+  content: '\e677';
 }
 
 .sw-cip-more:before {
-    content: '\e675';
+  content: '\e675';
 }
 
 .sw-cip-tool:before {
-    content: '\e676';
+  content: '\e676';
 }
 
 .sw-cip-return:before {
-    content: '\e66e';
+  content: '\e66e';
 }
 
 .sw-cip-home:before {
-    content: '\e66f';
+  content: '\e66f';
 }
 
 .sw-cip-clear:before {
-    content: '\e670';
+  content: '\e670';
 }
 
 .sw-cip-a-brush2:before {
-    content: '\e672';
+  content: '\e672';
 }
 
 .sw-cip-refresh:before {
-    content: '\e673';
+  content: '\e673';
 }

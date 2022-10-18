@@ -17,7 +17,7 @@ module.exports = {
   htmlWhitespaceSensitivity: 'ignore',
   tslintIntegration: false, // 不让prettier使用tslint的代码格式进行校验
   jsxBracketSameLine: false, // 在jsx中把> 是否单独放一行
-  // parser: "babylon",              // 格式化的解析器，默认是babylon
+  // parser: "babylon", // 格式化的解析器，默认是babylon
   eslintIntegration: true, //让prettier使用eslint的代码格式进行校验
   // stylelintIntegration: true, //让prettier使用stylelint的代码格式进行校验
   ignorePath: '.prettierignore', // 不使用prettier格式化的文件填写在项目的.prettierignore文件中
